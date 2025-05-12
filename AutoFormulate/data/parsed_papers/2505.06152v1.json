@@ -1,0 +1,15 @@
+{
+  "id": "2505.06152v1",
+  "title": "MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text\n  Dataset Derived from Textbooks",
+  "summary": "Medical vision-language models (VLMs) have shown promise as clinical\nassistants across various medical fields. However, specialized dermatology VLM\ncapable of delivering professional and detailed diagnostic analysis remains\nunderdeveloped, primarily due to less specialized text descriptions in current\ndermatology multimodal datasets. To address this issue, we propose MM-Skin, the\nfirst large-scale multimodal dermatology dataset that encompasses 3 imaging\nmodalities, including clinical, dermoscopic, and pathological and nearly 10k\nhigh-quality image-text pairs collected from professional textbooks. In\naddition, we generate over 27k diverse, instruction-following vision question\nanswering (VQA) samples (9 times the size of current largest dermatology VQA\ndataset). Leveraging public datasets and MM-Skin, we developed SkinVL, a\ndermatology-specific VLM designed for precise and nuanced skin disease\ninterpretation. Comprehensive benchmark evaluations of SkinVL on VQA,\nsupervised fine-tuning (SFT) and zero-shot classification tasks across 8\ndatasets, reveal its exceptional performance for skin diseases in comparison to\nboth general and medical VLM models. The introduction of MM-Skin and SkinVL\noffers a meaningful contribution to advancing the development of clinical\ndermatology VLM assistants. MM-Skin is available at\nhttps://github.com/ZwQ803/MM-Skin",
+  "authors": [
+    "Wenqi Zeng",
+    "Yuqi Sun",
+    "Chenxi Ma",
+    "Weimin Tan",
+    "Bo Yan"
+  ],
+  "published": "2025-05-09T16:03:47Z",
+  "link": "http://arxiv.org/abs/2505.06152v1",
+  "pdf_url": "http://arxiv.org/pdf/2505.06152v1"
+}

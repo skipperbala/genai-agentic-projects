@@ -1,0 +1,8 @@
+{
+  "title": "Extracting scientific evidence from biomedical studies for clinical research questions",
+  "abstract": "This paper focuses on the task of document-level scientific evidence extraction for clinical questions with conflicting evidence. A dataset called CochraneForest is created, leveraging forest plots from Cochrane systematic reviews. It comprises 202 annotated forest plots, associated clinical research questions, full texts of studies, and study-specific conclusions. A retrieval-augmented generation framework called URCA is proposed to tackle the unique challenges of evidence extraction. The experiments show that URCA outperforms the best existing methods by up to 10.3% in F1 score on this task.",
+  "problem": "The core research problem is the task of document-level scientific evidence extraction for clinical questions with conflicting evidence.",
+  "methodology": "The methodology involves creating a dataset called CochraneForest, leveraging forest plots from Cochrane systematic reviews. The dataset comprises 202 annotated forest plots, associated clinical research questions, full texts of studies, and study-specific conclusions. A retrieval-augmented generation framework called URCA is proposed to tackle the unique challenges of evidence extraction.",
+  "limitations": "The results underscore the complexity of CochraneForest, establishing it as a challenging testbed for advancing automated evidence synthesis systems.",
+  "future_work": "The future work is implied to be further advancement of automated evidence synthesis systems, potentially improving upon the URCA framework and further exploring the CochraneForest dataset."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2505.06191v1",
+  "title": "Neuro-Symbolic Concepts",
+  "summary": "This article presents a concept-centric paradigm for building agents that can\nlearn continually and reason flexibly. The concept-centric agent utilizes a\nvocabulary of neuro-symbolic concepts. These concepts, such as object,\nrelation, and action concepts, are grounded on sensory inputs and actuation\noutputs. They are also compositional, allowing for the creation of novel\nconcepts through their structural combination. To facilitate learning and\nreasoning, the concepts are typed and represented using a combination of\nsymbolic programs and neural network representations. Leveraging such\nneuro-symbolic concepts, the agent can efficiently learn and recombine them to\nsolve various tasks across different domains, ranging from 2D images, videos,\n3D scenes, and robotic manipulation tasks. This concept-centric framework\noffers several advantages, including data efficiency, compositional\ngeneralization, continual learning, and zero-shot transfer.",
+  "authors": [
+    "Jiayuan Mao",
+    "Joshua B. Tenenbaum",
+    "Jiajun Wu"
+  ],
+  "published": "2025-05-09T17:02:51Z",
+  "link": "http://arxiv.org/abs/2505.06191v1",
+  "pdf_url": "http://arxiv.org/pdf/2505.06191v1"
+}

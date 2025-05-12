@@ -1,0 +1,12 @@
+{
+  "id": "2505.06218v1",
+  "title": "Let Humanoids Hike! Integrative Skill Development on Complex Trails",
+  "summary": "Hiking on complex trails demands balance, agility, and adaptive\ndecision-making over unpredictable terrain. Current humanoid research remains\nfragmented and inadequate for hiking: locomotion focuses on motor skills\nwithout long-term goals or situational awareness, while semantic navigation\noverlooks real-world embodiment and local terrain variability. We propose\ntraining humanoids to hike on complex trails, driving integrative skill\ndevelopment across visual perception, decision making, and motor execution. We\ndevelop a learning framework, LEGO-H, that enables a vision-equipped humanoid\nrobot to hike complex trails autonomously. We introduce two technical\ninnovations: 1) A temporal vision transformer variant - tailored into\nHierarchical Reinforcement Learning framework - anticipates future local goals\nto guide movement, seamlessly integrating locomotion with goal-directed\nnavigation. 2) Latent representations of joint movement patterns, combined with\nhierarchical metric learning - enhance Privileged Learning scheme - enable\nsmooth policy transfer from privileged training to onboard execution. These\ncomponents allow LEGO-H to handle diverse physical and environmental challenges\nwithout relying on predefined motion patterns. Experiments across varied\nsimulated trails and robot morphologies highlight LEGO-H's versatility and\nrobustness, positioning hiking as a compelling testbed for embodied autonomy\nand LEGO-H as a baseline for future humanoid development.",
+  "authors": [
+    "Kwan-Yee Lin",
+    "Stella X. Yu"
+  ],
+  "published": "2025-05-09T17:53:02Z",
+  "link": "http://arxiv.org/abs/2505.06218v1",
+  "pdf_url": "http://arxiv.org/pdf/2505.06218v1"
+}
