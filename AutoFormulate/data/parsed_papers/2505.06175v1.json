@@ -1,0 +1,14 @@
+{
+  "id": "2505.06175v1",
+  "title": "Turbo-ICL: In-Context Learning-Based Turbo Equalization",
+  "summary": "This paper introduces a novel in-context learning (ICL) framework, inspired\nby large language models (LLMs), for soft-input soft-output channel\nequalization in coded multiple-input multiple-output (MIMO) systems. The\nproposed approach learns to infer posterior symbol distributions directly from\na prompt of pilot signals and decoder feedback. A key innovation is the use of\nprompt augmentation to incorporate extrinsic information from the decoder\noutput as additional context, enabling the ICL model to refine its symbol\nestimates iteratively across turbo decoding iterations. Two model variants,\nbased on Transformer and state-space architectures, are developed and\nevaluated. Extensive simulations demonstrate that, when traditional linear\nassumptions break down, e.g., in the presence of low-resolution quantization,\nICL equalizers consistently outperform conventional model-based baselines, even\nwhen the latter are provided with perfect channel state information. Results\nalso highlight the advantage of Transformer-based models under limited training\ndiversity, as well as the efficiency of state-space models in\nresource-constrained scenarios.",
+  "authors": [
+    "Zihang Song",
+    "Matteo Zecchin",
+    "Bipin Rajendran",
+    "Osvaldo Simeone"
+  ],
+  "published": "2025-05-09T16:29:29Z",
+  "link": "http://arxiv.org/abs/2505.06175v1",
+  "pdf_url": "http://arxiv.org/pdf/2505.06175v1"
+}

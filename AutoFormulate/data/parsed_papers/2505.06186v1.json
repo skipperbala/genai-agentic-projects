@@ -1,0 +1,17 @@
+{
+  "id": "2505.06186v1",
+  "title": "Query-driven Document-level Scientific Evidence Extraction from\n  Biomedical Studies",
+  "summary": "Extracting scientific evidence from biomedical studies for clinical research\nquestions (e.g., Does stem cell transplantation improve quality of life in\npatients with medically refractory Crohn's disease compared to placebo?) is a\ncrucial step in synthesising biomedical evidence. In this paper, we focus on\nthe task of document-level scientific evidence extraction for clinical\nquestions with conflicting evidence. To support this task, we create a dataset\ncalled CochraneForest, leveraging forest plots from Cochrane systematic\nreviews. It comprises 202 annotated forest plots, associated clinical research\nquestions, full texts of studies, and study-specific conclusions. Building on\nCochraneForest, we propose URCA (Uniform Retrieval Clustered Augmentation), a\nretrieval-augmented generation framework designed to tackle the unique\nchallenges of evidence extraction. Our experiments show that URCA outperforms\nthe best existing methods by up to 10.3% in F1 score on this task. However, the\nresults also underscore the complexity of CochraneForest, establishing it as a\nchallenging testbed for advancing automated evidence synthesis systems.",
+  "authors": [
+    "Massimiliano Pronesti",
+    "Joao Bettencourt-Silva",
+    "Paul Flanagan",
+    "Alessandra Pascale",
+    "Oisin Redmond",
+    "Anya Belz",
+    "Yufang Hou"
+  ],
+  "published": "2025-05-09T16:55:06Z",
+  "link": "http://arxiv.org/abs/2505.06186v1",
+  "pdf_url": "http://arxiv.org/pdf/2505.06186v1"
+}

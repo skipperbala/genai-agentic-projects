@@ -1,0 +1,8 @@
+{
+  "title": "A Concept-Centric Paradigm for Building Agents that Learn Continually and Reason Flexibly",
+  "abstract": "This article presents a concept-centric paradigm for building agents that can learn continually and reason flexibly. The concept-centric agent utilizes a vocabulary of neuro-symbolic concepts. These concepts, such as object, relation, and action concepts, are grounded on sensory inputs and actuation outputs. They are also compositional, allowing for the creation of novel concepts through their structural combination. To facilitate learning and reasoning, the concepts are typed and represented using a combination of symbolic programs and neural network representations. Leveraging such neuro-symbolic concepts, the agent can efficiently learn and recombine them to solve various tasks across different domains, ranging from 2D images, videos, 3D scenes, and robotic manipulation tasks. This concept-centric framework offers several advantages, including data efficiency, compositional generalization, continual learning, and zero-shot transfer.",
+  "problem": "The need for building agents that can learn continually and reason flexibly, capable of solving various tasks across different domains.",
+  "methodology": "The concept-centric agent utilizes a vocabulary of neuro-symbolic concepts, grounded on sensory inputs and actuation outputs. These concepts are compositional, allowing for the creation of novel concepts through their structural combination. The concepts are typed and represented using a combination of symbolic programs and neural network representations.",
+  "limitations": "The paper does not explicitly mention any limitations.",
+  "future_work": "The paper does not explicitly mention any future work."
+}
