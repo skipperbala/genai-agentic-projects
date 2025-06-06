@@ -1,0 +1,9 @@
+feedparser
+requests
+neo4j
+streamlit
+neo4j
+openai
+networkx
+matplotlib
+pyvis

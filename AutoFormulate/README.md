@@ -1,18 +1,13 @@
-AutoFormulate is an LLM-powered agent that reads scientific papers and proposes new hypotheses or experiments. It assists researchers by automating the process of scientific ideation.
+# GenAI + Agentic AI Portfolio Projects
 
-## 🔍 Features
-- Parses arXiv papers
-- Extracts key scientific entities and relations
-- Suggests research questions and follow-ups
+A Research-driven projects that demonstrate advanced use of LLMs, multimodal AI, and autonomous agents.
+ 1. AutoFormulate: AI Scientist for Hypothesis Generation
 
-## ⚙️ Tech Stack
-- GPT-4, LangGraph, PyMuPDF, Neo4j, FastAPI
-""",
-    "SkillMorph": """# 📄 SkillMorph: Agentic Resume Optimizer & Job Aligner
+**Goal:** Automatically extract and propose new research hypotheses from scientific papers (e.g., arXiv).
 
-SkillMorph is an AI agent that optimizes resumes and aligns them with job descriptions. It rewrites content, identifies gaps, and suggests learning resources.
+**Key Features:**
+- LLM-driven RAG pipeline on arXiv data
+- Scientific concept extraction + graph building (e.g., Neo4j)
+- Agent planner that proposes new experiments or directions
 
-## 🔍 Features
-- Resume parsing and job matching
-- Skill gap analysis and suggestions
-- PDF output and Notion export
+**Tech Stack:** GPT-4, LangGraph, PyMuPDF, Neo4j, FastAPI
