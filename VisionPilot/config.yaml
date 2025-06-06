@@ -1,0 +1,4 @@
+device: cuda
+model:
+  captioner: blip2
+  detector: yolov8n.pt
